@@ -1,0 +1,37 @@
+_repo: The-Illustrated-Works-Of-Gordon-HomeA-Linked-Index-to-the-Project-Gutenberg-Editions_28959
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28959-h/files/13890/13890-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Home, Gordon
+    alias: Home, Gordon Cochrane
+    birthdate: 1878
+    deathdate: 1969
+    gutenberg_agent_id: '2778'
+    url: http://www.gutenberg.org/2009/agents/2778
+    wikipedia: http://en.wikipedia.org/wiki/Gordon_Home
+  editor:
+    agent_name: Widger, David
+    birthdate: 1932
+    gutenberg_agent_id: '1961'
+    url: http://www.gutenberg.org/2009/agents/1961
+description: ''
+gutenberg_issued: '2009-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28959'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Description and travel'
+- !lcsh 'Indexes'
+- !lcc 'DC'
+- !lcsh 'Normandy (France) -- Description and travel'
+- !lcc 'DA'
+title: 'The Illustrated Works of Gordon Home: A Linked Index to the Project Gutenberg
+  Editions'
+url: http://www.gutenberg.org/ebooks/28959
